@@ -36,7 +36,7 @@ The labs listed below will follow the general guidance of incident response step
  - [Webshell]: https://docs.google.com/document/d/12OVgRHTYQb4kqsZ00SlDTx6I66yybuwT/edit?usp=sharing&ouid=115461830007622919862&rtpof=true&sd=true  <br/>
  - [Persistent access to malicious domain] : https://docs.google.com/document/d/19JamQiPGnsH6MFtg7K_ROssP0mlqVxTC/edit?usp=sharing&ouid=115461830007622919862&rtpof=true&sd=true  <br/>
  - [Web Defacement] : https://docs.google.com/document/d/1wXZAl8csW5EYp3zdYPE54Ifb516kiqhr/edit?usp=sharing&ouid=115461830007622919862&rtpof=true&sd=true  <br/>
- - [Ransomware](https://docs.google.com/document/d/1y_B0JvjhnjSfwp-uH9Y6QkoVyVX_YYnK/edit?usp=sharing&ouid=115461830007622919862&rtpof=true&sd=true)  <br/>
+ - [[Ransomware]](https://docs.google.com/document/d/1y_B0JvjhnjSfwp-uH9Y6QkoVyVX_YYnK/edit?usp=sharing&ouid=115461830007622919862&rtpof=true&sd=true) <br/>
 
 
  <p align="center">
